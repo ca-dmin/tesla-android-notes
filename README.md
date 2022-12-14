@@ -1,40 +1,40 @@
+My notes on using [Tesla Android] (https://teslaandroid.com) without Carplay.
 
-My notes for using [Tesla Android](https://teslaandroid.com) without Carplay.
+# Read the release notes
 
-# Read the Release notes
-
-just saying: [Release notes](https://teslaandroid.com/release-notes)
-
+just do it, read the [Release Notes](https://teslaandroid.com/release-notes)
 
 
-# Aurora Store instead of Playstore
+# Aurora Store instead of Playstore.
 
-instead of using the playstore I did the following:
-- install F-Droid from https://f-droid.org
-- from within F-Droid install "[Aurora Store](https://f-droid.org/packages/com.aurora.store/)"
-- in "Aurora Store" go to "Spoof Mangager" 
-- I set it to "Samsung S9+"
+Instead of using the playstore, here's what I did:
+- Install F-Droid from https://f-droid.org
+- install "[Aurora Store](https://f-droid.org/packages/com.aurora.store/)" from F-Droid
+- in the "Aurora Store" go to "Spoof Mangager". 
+- I set it to "Samsung S9+".
 
-pro:
-- You could install many more apps than you would be able to install with the "rpi4-default"-Device.
-- Also I'm using "anoynmous" Login ; not need to fiddle with logins all the time
+Pro:
+- You can install much more apps than possible with "rpi4-default" device.
+- Also, I use "anoynmous" login ; you don't have to mess around with logins all the time
 
 contra:
-- not always working - when installing paid apps for instance (taking the Playstore instead)
+- doesn't always work - e.g. when installing paid apps (use the playstore instead)
 - no updates
-- ... just look at [Aurora Store](https://f-droid.org/packages/com.aurora.store/)
+- ... have a look at [Aurora Store](https://f-droid.org/packages/com.aurora.store/)
 
 
 # Wireguard
 
-Using to connect to my [Home Assistant](https://www.home-assistant.io/) instance at home :)
-Also using it currently for Faking GPS data.
+I use it to connect to my [Home Assistant](https://www.home-assistant.io/) instance at home :)
+I also currently use it to falsify GPS data.
 
-# Faking GPS data 
+# Fake GPS data 
 
-it works for me kind of. 
+it kinda works for me. 
 Look at:
 [FakeGPS-for-Tesla-Android](https://github.com/ca-dmin/FakeGPS-for-Tesla-Android)
+
+
 
 
 
