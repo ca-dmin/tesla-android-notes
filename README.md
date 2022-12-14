@@ -26,7 +26,8 @@ contra:
 # Wireguard
 
 I use it to connect to my [Home Assistant](https://www.home-assistant.io/) instance at home :)
-I also currently use it to falsify GPS data.
+I also currently use it for [FakeGPS-for-Tesla-Android](https://github.com/ca-dmin/FakeGPS-for-Tesla-Android)
+to access Teslamate.
 
 # Fake GPS data 
 
