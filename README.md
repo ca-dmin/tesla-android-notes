@@ -1,4 +1,5 @@
-My notes on using [Tesla Android] (https://teslaandroid.com) without(!) Carplay.
+My notes on using [Tesla Android](https://teslaandroid.com) without(!) Carplay.
+
 
 # Read the release notes
 
@@ -43,11 +44,22 @@ it kinda works for me.
 Look at:
 [FakeGPS-for-Tesla-Android](https://github.com/ca-dmin/FakeGPS-for-Tesla-Android)
 
-# S3xy Buttons
+# S3XY Buttons
 
 are also working including firmware updates.
 The dashboards looks good.
 
 ![screenshot](./screenshots/s3xy_buttons_dashboard.jpg)
 ![screenshot](./screenshots/s3xy_buttons_firmware_update.jpg)
+
+# Android Auto without CarlinKit (not working yet)
+
+In case someone more experienced would like to try:
+
+Since [Android Auto doesn't working very well](https://github.com/tesla-android/issue-tracker/issues/138),
+I was trying to install android auto directly on the RPI4.
+
+Installed [Android Auto](https://play.google.com/store/apps/details?id=com.google.android.projection.gearhead) and [Headunit Reloaded Trial](https://play.google.com/store/apps/details?id=gb.xxy.trial) via Aurora Store.
+
+On my mobile this combination works; but not on the RPI4 - the screen shows just black :-(
 
