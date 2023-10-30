@@ -38,11 +38,6 @@ I use it to connect to my [Home Assistant](https://www.home-assistant.io/) insta
 I also currently use it for [FakeGPS-for-Tesla-Android](https://github.com/ca-dmin/FakeGPS-for-Tesla-Android)
 to access Teslamate.
 
-# Fake GPS data 
-
-it kinda works for me. 
-Look at:
-[FakeGPS-for-Tesla-Android](https://github.com/ca-dmin/FakeGPS-for-Tesla-Android)
 
 # S3XY Buttons
 
